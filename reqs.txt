@@ -1,0 +1,7 @@
+networkx          
+tqdm              
+numpy             
+pandas            
+texttable         
+scipy             
+argparse         
